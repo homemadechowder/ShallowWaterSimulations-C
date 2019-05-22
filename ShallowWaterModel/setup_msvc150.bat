@@ -1,0 +1,1 @@
+set "VS150COMNTOOLS=E:\Program Files (x86)\VisualStudio\Common7\Tools\"
